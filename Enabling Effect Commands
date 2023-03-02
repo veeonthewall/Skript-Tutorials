@@ -1,0 +1,26 @@
+What are effect commands?
+
+Effect commands, in Skript, let you execute effects in-game without having to make new code in your .sk files. 
+They are helpful for quick debugging or other tiny miscelleanous tasks.
+
+How to enable effect commands:
+
+1. Install Skript (download: https://github.com/SkriptLang/Skript)
+
+2. Start your server if you have not.
+
+3. Navigate to the following file path: plugins/Skript/config.sk
+
+4. Locate 'enable-efffect-commands: false' and set it to 'enable-efffect-commands: true'
+
+5. Locate 'allow ops to use effect commands: false'. Set this value to 'allow ops to use effect commands: true'
+
+6. Save config.sk
+
+7. Go to your game, and type "/skript reload config".
+
+8. To confirm your effect commands are working, try one! Here's an example below.
+
+Open chat and type "!send size of all players", then press enter.
+
+It will return how many people are online. Congratulations!
