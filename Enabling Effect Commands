@@ -11,7 +11,7 @@ How to enable effect commands:
 
 3. Navigate to the following file path: plugins/Skript/config.sk
 
-4. Locate 'enable-efffect-commands: false' and set it to 'enable-efffect-commands: true'
+4. Locate 'enable-effect-commands: false' and set it to 'enable-effect-commands: true'
 
 5. Locate 'allow ops to use effect commands: false'. Set this value to 'allow ops to use effect commands: true'
 
